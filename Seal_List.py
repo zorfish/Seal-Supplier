@@ -2,8 +2,6 @@
 seals = [
     "https://pbs.twimg.com/media/G2fqhEDawAA38p9.jpg?name=orig",
     "https://pbs.twimg.com/media/G2YwgMZXYAAO99I.jpg?name=orig",
-    "https://kkinstagram.com/reel/DPUYWicEXGj/?igsh=NTc4MTIwNjQ2YQ==",
-    "https://kkinstagram.com/reel/DPUxThbky7G/?igsh=NTc4MTIwNjQ2YQ==",
     "https://tenor.com/view/seal-clap-gif-3825042206276800481",
     "https://tenor.com/view/mlem-seal-cute-animal-big-eyes-gif-10002606210418209961",
     "https://tenor.com/view/aguhiyori-agu-seal-agu-cute-seal-seal-clap-gif-7994364550587801526",
@@ -45,4 +43,7 @@ seals = [
     "https://tenor.com/view/zeal-hhco-pgho-party-dance-gif-1749324083524848534",
     "https://tenor.com/view/weevils-cement-forced-to-eat-cement-cement-spinning-spin-gif-4655161277358903712",
     "https://tenor.com/view/navy-blue-seal-navy-seal-seal-wave-seal-the-deal-gif-8949691767833460509",
+    "https://tenor.com/view/tayllicit-seal-saxophone-gif-21968456",
+    "https://tenor.com/view/seal-slapping-belly-gif-11149184",
+    "https://tenor.com/view/seal-cute-seal-plush-seal-plushie-hug-gif-7389682967065629080",
 ]
